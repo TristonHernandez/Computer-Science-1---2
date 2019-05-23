@@ -19,4 +19,4 @@ Triston Hernandez 2017
 
 4) Run Like Hell Dynamic Programming
 
-![RLH](RLH.png)
+![RLH](RLH.PNG)
