@@ -15,5 +15,5 @@ Triston Hernandez 2017
 
 3) Sneaky Knights:
 
-![SK](SK.png)
+![SK](SK1.png)
 
